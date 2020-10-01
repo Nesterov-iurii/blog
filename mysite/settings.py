@@ -134,4 +134,4 @@ STATIC_URL = '/static/'
 # EMAIL_HOST_PASSWORD = 'SECRET'
 # EMAIL_PORT = 587
 # EMAIL_USE_TLS = True
-# EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
+EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
