@@ -12,12 +12,6 @@ account as an SMTP server
 8. Database used is postgreSQL;
 9. Pagination.
 
-Still to do (22.09):
-
-1. Styling;
-2. Deploying on Heroku;
-3. Other flashy features?
-
 HOW TO RUN THIS APP:
 
 1. Download the repository
